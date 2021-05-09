@@ -1,0 +1,33 @@
+body{
+    background-image:url("b.jpg");
+    background-position:center;
+    background-size: cover;
+    }
+    
+    #model
+    {
+    font-family: 'Girassol', cursive;
+    }
+    
+    #image
+    {
+    font-family: 'Pangolin', cursive;
+    }
+    
+    b{
+    font-size:25px;
+    }
+    
+    #open_camera,#clicked_photo{
+    border:2px solid yellow;
+    width:350px;
+    height:350px;
+    }
+    
+    #name_of_object,#accuracy_of_object{
+    color:blue;
+    }
+    
+    hr{
+        height:2px;border-width:0;color:gray;background-color:darkcyan;
+    }
